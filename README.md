@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ami-laal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ami Laal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ami-laal/) |
+| **Get License** | [Obtain a Music License for Ami Laal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ami-laal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 10114a33d5aee2ef82c4b2d0be14b012acb3ee8f
+> আমি লাল তোমার প্রেমের নেশায়
+> রাতের আকাশ কাঁপে আমার আশায়
+> তোমার ঐ চোখের মাতাল ইশারায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

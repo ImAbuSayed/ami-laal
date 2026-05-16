@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ami Laal
+
+This log tracks the cryptographic history and versioning for the song **Ami Laal** (ami-laal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T07:45:21.194308 | `v1` | `af205b9d3c9d7d564285e110ddc1a0c40770cc8c7bc9e89745e982aeaedb7c75` | `8be77a71c66e75058f303944b92268e29d9ac166d78beeb0e52fd028fc8f60e2` | `2026-05-16_ami-laal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
